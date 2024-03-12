@@ -1,17 +1,15 @@
-# caddy-cloudflare
+# caddy-custom
 
 [![](https://img.shields.io/docker/cloud/build/technoguyfication/caddy-cloudflare)](https://hub.docker.com/r/technoguyfication/caddy-cloudflare)
 [![](https://img.shields.io/docker/pulls/technoguyfication/caddy-cloudflare)](https://hub.docker.com/r/technoguyfication/caddy-cloudflare)
 
 Caddy with integrated support for Cloudflare DNS-01 ACME verification challenges.
 
-I'm using this image in production myself, but you may wish to fork it and deploy your own version rather than trust my image (I would recommend you do).
-
 **Please see the official [Caddy Docker Image](https://hub.docker.com/_/caddy) for more detailed deployment instructions.**
 
 ## Images
 
-Includes images for regular and alpine versions of Caddy. Each are rebuilt every Monday morning at 0300 UTC from the `:latest` and `:alpine` tags respectively. Visit this repository on [Docker Hub](https://hub.docker.com/r/technoguyfication/caddy-cloudflare) to pull images.
+Includes images for regular and alpine versions of Caddy. Each are rebuilt every Monday morning at 0300 UTC from the `:latest` and `:alpine` tags respectively. Visit this repository on [Docker Hub](https://hub.docker.com/r/) to pull images.
 
 ## Requirements
 1. A Cloudflare account
