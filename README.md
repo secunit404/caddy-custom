@@ -15,4 +15,4 @@ Includes images for regular and alpine versions of Caddy. Each are rebuilt every
 ## Instructions:
 
 1. Caddy [here](https://hub.docker.com/_/caddy)
-2. Caddy-cloudflare [here][https://github.com/caddy-dns/cloudflare]
+2. Caddy-cloudflare [here](https://github.com/caddy-dns/cloudflare)
