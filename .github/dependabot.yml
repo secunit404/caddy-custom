@@ -14,7 +14,7 @@ updates:
       - "plaexmaster"
   # Check for Docker image updates
   - package-ecosystem: "docker"
-    directory: "/caddy-cloudflare"
+    directory: "/caddy-custom"
     schedule:
       interval: "daily"
     assignees:
