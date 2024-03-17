@@ -2,12 +2,12 @@
 
 Caddy built with my used modules.
 
-**Please see the official [Caddy Docker Image](https://hub.docker.com/_/caddy) for more detailed deployment instructions.**
+See the official [Caddy Docker Image](https://hub.docker.com/_/caddy) for more detailed deployment instructions.
 
 ## Images
 
-Visit this repository on [Docker Hub](https://hub.docker.com/r/plaexmstr/caddy-custom) to pull images.
+Visit my repository on [Docker Hub](https://hub.docker.com/r/plaexmstr/caddy-custom) to pull images.
 
-## Modules:
+## Included modules:
 
 * [Caddy-cloudflare](https://github.com/caddy-dns/cloudflare)
