@@ -1,6 +1,6 @@
 # caddy-custom
 
-Caddy with my used modules.
+Caddy built with my used modules.
 
 **Please see the official [Caddy Docker Image](https://hub.docker.com/_/caddy) for more detailed deployment instructions.**
 
@@ -10,4 +10,4 @@ Visit this repository on [Docker Hub](https://hub.docker.com/r/plaexmstr/caddy-c
 
 ## Modules:
 
-1. [Caddy-cloudflare](https://github.com/caddy-dns/cloudflare)
+* [Caddy-cloudflare](https://github.com/caddy-dns/cloudflare)
