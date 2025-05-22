@@ -11,11 +11,11 @@ updates:
     schedule:
       interval: "weekly"
     assignees:
-      - "plaexmaster"
+      - "secunit404"
   # Check for Docker image updates
   - package-ecosystem: "docker"
     directory: "/caddy-custom"
     schedule:
       interval: "daily"
     assignees:
-      - "plaexmaster"
+      - "secunit404"
