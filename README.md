@@ -6,7 +6,6 @@ See the official [Caddy Docker Image](https://hub.docker.com/_/caddy) for more d
 
 ## Images
 
-Visit my repository on [Docker Hub](https://hub.docker.com/r/plaexmstr/caddy-custom) to pull images.
 
 ## Included modules:
 
