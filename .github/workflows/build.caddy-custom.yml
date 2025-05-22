@@ -11,7 +11,7 @@ on:
 env:
   DOCKER_BUILDKIT: 1
   DOCKER_NAME: caddy-custom
-  DOCKER_DESCRIPTION: "Caddy Docker custom build with Cloudflare DNS/IPs and CrowdSec Bouncer modules"
+  DOCKER_DESCRIPTION: "Caddy Docker custom build with Cloudflare DNS/IPs module"
 
 jobs:
   metadata:
