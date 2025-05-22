@@ -93,7 +93,7 @@ jobs:
         run: |
           echo "RELEASE_TEXT<<EOF" >> $GITHUB_ENV
           for caddy_build in $CADDY_BUILDS; do
-            echo "- $caddy_build: [Source](https://github.com/plaexmaster/caddy-custom/tree/main/$caddy_build) / \
+            echo "- $caddy_build: [Source](https://github.com/secunit404/caddy-custom/tree/main/$caddy_build) / \
             [Docker Hub](https://hub.docker.com/r/plaexmstr/$caddy_build)" >> $GITHUB_ENV
           done
           echo "EOF" >> $GITHUB_ENV
